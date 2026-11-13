@@ -28,4 +28,4 @@ chmod +x build.sh
 
 ## 第三方组件
 
-本程序使用 [ExifTool](https://github.com/exiftool/exiftool)，源码提交固定为 `1da714924f67763b6a8a7013dd2aa1983a16f87b`。其许可文件同时包含在应用包和仓库的 `EXIFTOOL-LICENSE.txt` 中。
+本程序使用 [ExifTool](https://github.com/exiftool/exiftool)，源码提交固定为 `1da714924f67763b6a8a7013dd2aa1983a16f87b`。其许可文件同时包含在应用包和仓库的 `third_party/EXIFTOOL-LICENSE.txt` 中。
